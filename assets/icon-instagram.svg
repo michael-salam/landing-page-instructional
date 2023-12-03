@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M36 0L36 0L36 36L0 36L0 0L36 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Instagram" clip-path="url(#clip_1)">
+    <path d="M36 0L36 0L36 36L0 36L0 0L36 0Z" id="Instagram" fill="none" stroke="none" />
+    <path d="M12 4.5C7.8585 4.5 4.5 7.8585 4.5 12L4.5 24C4.5 28.1415 7.8585 31.5 12 31.5L24 31.5C28.1415 31.5 31.5 28.1415 31.5 24L31.5 12C31.5 7.8585 28.1415 4.5 24 4.5L12 4.5L12 4.5ZM27 7.5C27.828 7.5 28.5 8.172 28.5 9C28.5 9.828 27.828 10.5 27 10.5C26.172 10.5 25.5 9.828 25.5 9C25.5 8.172 26.172 7.5 27 7.5L27 7.5ZM18 10.5C22.1415 10.5 25.5 13.8585 25.5 18C25.5 22.1415 22.1415 25.5 18 25.5C13.8585 25.5 10.5 22.1415 10.5 18C10.5 13.8585 13.8585 10.5 18 10.5L18 10.5ZM18 13.5C15.5147 13.5 13.5 15.5147 13.5 18C13.5 20.4853 15.5147 22.5 18 22.5C20.4853 22.5 22.5 20.4853 22.5 18C22.5 15.5147 20.4853 13.5 18 13.5L18 13.5Z" id="Shape" fill="#000000" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
